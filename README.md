@@ -5,13 +5,19 @@
 
 I am a Full-Stack Developer based in Austin, Texas actively seeking opportunities.
 
+- 🌱 I’m currently learning
+
+![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+
+
 ## Languages and Tools:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
-  ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 <br>
   ![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
   ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 <br>
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
