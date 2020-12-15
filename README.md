@@ -33,6 +33,14 @@ I am a Full-Stack Developer based in Austin, Texas actively seeking opportunitie
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)  
 
+## Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ggomesneto&theme=vue&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggomesneto&layout=compact&theme=vue&hide_title=true&hide_border=true" >
+
+
+
+
+
+
 <!--
 **ggomesneto/ggomesneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
