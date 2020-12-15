@@ -5,7 +5,7 @@
 
 I am a Full-Stack Developer based in Austin, Texas actively seeking opportunities.
 
-- 🌱 I’m currently learning
+## 🌱 I’m currently learning
 
 ![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
@@ -17,12 +17,17 @@ I am a Full-Stack Developer based in Austin, Texas actively seeking opportunitie
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 <br>
+ ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+<br>
+  ![JQuery](http://img.shields.io/badge/-JQuery-black?style=flat-square&logo=jquery)
   ![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
   ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 <br>
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+<br>
+  ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 <br>
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
