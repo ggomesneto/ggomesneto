@@ -3,14 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-ggomesneto-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ggomesneto/) [![Gmail Badge](https://img.shields.io/badge/-ggomesneto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ggomesneto@gmail.com)](mailto:ggomesneto@gmail.com) [![GitHub Geraldo](https://img.shields.io/github/followers/ggomesneto?label=follow&style=social)](https://github.com/ggomesneto)
 
-I am a Full-Stack Developer based in Austin, Texas actively seeking opportunities.
-
-## 🌱 I’m currently learning
-
-![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-
+I am a Backend engineer @ Affirm based in Las Vegas, Nevada.
 
 
 ## Languages and Tools:
